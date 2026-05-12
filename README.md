@@ -38,9 +38,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kakabewok&show_icons=true&hide_border=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kakabewok&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakabewok&layout=compact&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kakabewok&layout=compact&hide_border=true)
 
 ---
 
